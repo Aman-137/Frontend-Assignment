@@ -1,0 +1,17 @@
+[
+  {
+    "id": "o1",
+    "customerName": "Aman Kumar",
+    "items": [
+      {
+        "productId": "p1",
+        "name": "Wireless Mouse",
+        "price": 999,
+        "quantity": 2
+      }
+    ],
+    "total": 1998,
+    "status": "PENDING",
+    "createdAt": "2025-01-03T14:30:00Z"
+  }
+]

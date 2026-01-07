@@ -1,0 +1,152 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Mouse",
+    "price": 999,
+    "stock": 50,
+    "category": "Electronics",
+    "rating": 4.5,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-01T10:00:00Z"
+  },
+  {
+    "id": "p2",
+    "name": "Mechanical Keyboard",
+    "price": 3499,
+    "stock": 30,
+    "category": "Electronics",
+    "rating": 4.8,
+    "status": "INACTIVE",
+    "updatedAt": "2025-01-02T12:00:00Z"
+  },
+  {
+    "id": "p3",
+    "name": "USB-C Charger",
+    "price": 1299,
+    "stock": 100,
+    "category": "Accessories",
+    "rating": 4.3,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-03T09:30:00Z"
+  },
+  {
+    "id": "p4",
+    "name": "Laptop Stand",
+    "price": 1999,
+    "stock": 40,
+    "category": "Accessories",
+    "rating": 4.6,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-04T14:15:00Z"
+  },
+  {
+    "id": "p5",
+    "name": "Noise Cancelling Headphones",
+    "price": 8999,
+    "stock": 20,
+    "category": "Electronics",
+    "rating": 4.9,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-05T16:45:00Z"
+  },
+  {
+    "id": "p6",
+    "name": "Bluetooth Speaker",
+    "price": 2999,
+    "stock": 35,
+    "category": "Electronics",
+    "rating": 4.4,
+    "status": "INACTIVE",
+    "updatedAt": "2025-01-06T11:20:00Z"
+  },
+  {
+    "id": "p7",
+    "name": "Smartphone Tripod",
+    "price": 799,
+    "stock": 60,
+    "category": "Accessories",
+    "rating": 4.1,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-07T08:10:00Z"
+  },
+  {
+    "id": "p8",
+    "name": "Webcam HD",
+    "price": 2499,
+    "stock": 25,
+    "category": "Electronics",
+    "rating": 4.2,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-08T13:00:00Z"
+  },
+  {
+    "id": "p9",
+    "name": "Gaming Mouse Pad",
+    "price": 499,
+    "stock": 150,
+    "category": "Accessories",
+    "rating": 4.0,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-09T09:45:00Z"
+  },
+  {
+    "id": "p10",
+    "name": "External SSD 1TB",
+    "price": 10999,
+    "stock": 15,
+    "category": "Storage",
+    "rating": 4.7,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-10T17:30:00Z"
+  },
+  {
+    "id": "p11",
+    "name": "USB Flash Drive 64GB",
+    "price": 699,
+    "stock": 200,
+    "category": "Storage",
+    "rating": 4.3,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-11T10:40:00Z"
+  },
+  {
+    "id": "p12",
+    "name": "Wireless Earbuds",
+    "price": 4999,
+    "stock": 45,
+    "category": "Electronics",
+    "rating": 4.6,
+    "status": "INACTIVE",
+    "updatedAt": "2025-01-12T15:55:00Z"
+  },
+  {
+    "id": "p13",
+    "name": "Portable Monitor",
+    "price": 15999,
+    "stock": 10,
+    "category": "Electronics",
+    "rating": 4.8,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-13T12:25:00Z"
+  },
+  {
+    "id": "p14",
+    "name": "Desk Lamp LED",
+    "price": 1299,
+    "stock": 70,
+    "category": "Home",
+    "rating": 4.2,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-14T18:10:00Z"
+  },
+  {
+    "id": "p15",
+    "name": "Ergonomic Office Chair",
+    "price": 18999,
+    "stock": 8,
+    "category": "Furniture",
+    "rating": 4.9,
+    "status": "ACTIVE",
+    "updatedAt": "2025-01-15T20:00:00Z"
+  }
+]
