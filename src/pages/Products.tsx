@@ -20,7 +20,7 @@ const Products = () => {
   const [categoryFilter, setCategoryFilter] = useState("ALL");
   const [sortBy, setSortBy] = useState("updatedAt");
 
-  const cart = useAppSelector((state) => state.orders.cart);
+  // const cart = useAppSelector((state) => state.orders.cart);
   // console.log("CART:", cart);
 
   const debouncedSearch = useDebounce(search, 300);

@@ -198,7 +198,7 @@ const Dashboard = () => {
                   labelLine={false}
                   label={({ name, value }) => `${name}: ${value}`}
                 >
-                  {orderStatusData.map((entry, index) => (
+                  {orderStatusData.map((_, index) => (
                     <Cell
                       key={index}
                       fill={Object.values(STATUS_COLORS)[index]}
